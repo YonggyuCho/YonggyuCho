@@ -1,4 +1,4 @@
-🎓 4th year at Hoseo University 
+🎓 4th year at Hoseo University  
 
 ✋ My current interest is in cloud    
 
