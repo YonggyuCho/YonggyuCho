@@ -1,5 +1,6 @@
-### 🌱 My Blog
+### 🚀 My Blog
 [![티스토리 아이콘](https://img.shields.io/badge/tistory-FF6666?style=for-the-badge&logo=tistory&logoColor=FFFFFF)](https://yonggyu-memo.tistory.com/)
+
 
 
  ### 📚 STAKS
