@@ -2,7 +2,7 @@
 [![티스토리 아이콘](https://img.shields.io/badge/tistory-FF6666?style=for-the-badge&logo=tistory&logoColor=FFFFFF)](https://yonggyu-memo.tistory.com/)
 
 
- ### STAKS
+ ### 📚 STAKS
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
