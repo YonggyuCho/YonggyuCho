@@ -1,3 +1,7 @@
+🎓 4th year at Hoseo University
+✋ My current interest is in cloud
+
+
 ### 🚀 My Blog
 [![티스토리 아이콘](https://img.shields.io/badge/tistory-FF6666?style=for-the-badge&logo=tistory&logoColor=FFFFFF)](https://yonggyu-memo.tistory.com/)
 
@@ -20,5 +24,4 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![Android Studio](https://img.shields.io/badge/Android%20Studio-990099?style=for-the-badge&logo=android-studio&logoColor=white)
 
- 
 
